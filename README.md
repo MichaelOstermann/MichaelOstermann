@@ -1,3 +1,4 @@
+- [`signals`](https://github.com/MichaelOstermann/signals) ([docs](https://michaelostermann.github.io/signals)) - A signals library.
 - [`match`](https://github.com/MichaelOstermann/match) ([docs](https://michaelostermann.github.io/match)) - Zero-runtime exhaustive pattern matching. 
 - [`dfdl`](https://github.com/MichaelOstermann/dfdl) ([docs](https://michaelostermann.github.io/dfdl)) - Data-First / Data-Last oriented utilities.
 - [`remmi`](https://github.com/MichaelOstermann/remmi) ([docs](https://michaelostermann.github.io/remmi)) - Reverse immer.
