@@ -7,6 +7,14 @@
 - [`result`](https://github.com/MichaelOstermann/result) ([docs](https://michaelostermann.github.io/result)) - Functional utilities for success | error types.
 - [`geometry`](https://github.com/MichaelOstermann/geometry) ([docs](https://michaelostermann.github.io/geometry/)) - Functional geometry utilities.
 - [`hotkeys`](https://github.com/MichaelOstermann/hotkeys) - Highly flexible keyboard shortcut management for any environment.
+- [`fn`](https://github.com/MichaelOstermann/fn) ([docs](https://MichaelOstermann.github.io/fn)) - A utility library for TypeScript.
+    - [`array`](https://github.com/MichaelOstermann/array) ([docs](https://MichaelOstermann.github.io/array)) - Functional utilities for arrays.
+    - [`object`](https://github.com/MichaelOstermann/object) ([docs](https://MichaelOstermann.github.io/object)) - Functional utilities for objects.
+    - [`string`](https://github.com/MichaelOstermann/string) ([docs](https://MichaelOstermann.github.io/string)) - Functional utilities for strings.
+    - [`number`](https://github.com/MichaelOstermann/number) ([docs](https://MichaelOstermann.github.io/number)) - Functional utilities for numbers.
+    - [`map`](https://github.com/MichaelOstermann/map) ([docs](https://MichaelOstermann.github.io/map)) - Functional utilities for maps.
+    - [`set`](https://github.com/MichaelOstermann/set) ([docs](https://MichaelOstermann.github.io/set)) - Functional utilities for sets.
+    - [`promise`](https://github.com/MichaelOstermann/promise) ([docs](https://MichaelOstermann.github.io/promise)) - Functional utilities for promises.
 
 #### Devtools
 
@@ -23,8 +31,10 @@
 
 #### Personal
 
+- [`gitui`](https://github.com/MichaelOstermann/gitui) - Simple TUI for git.
+- [`mpdtui`](https://github.com/MichaelOstermann/mpdtui) - Simple TUI for mpd.
+- [`eslint-config`](https://github.com/MichaelOstermann/eslint-config) - Personal ESLint config based on [antfu/eslint-config](https://github.com/antfu/eslint-config).
+- [`qmk`](https://github.com/MichaelOstermann/qmk) - My keyboard configuration.
 - [`dotfiles`](https://github.com/MichaelOstermann/dotfiles)
-- [`qmk`](https://github.com/MichaelOstermann/qmk)
 - [`vitepress-theme`](https://github.com/MichaelOstermann/vitepress-theme)
-- [`eslint-config`](https://github.com/MichaelOstermann/eslint-config)
 - [`template-ts`](https://github.com/MichaelOstermann/template-ts)
