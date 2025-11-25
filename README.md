@@ -8,6 +8,7 @@
 - [`signals`](https://github.com/MichaelOstermann/signals) ([docs](https://michaelostermann.github.io/signals)) - A signals library.
     - [`signals-react`](https://github.com/MichaelOstermann/signals-react) ([docs](https://michaelostermann.github.io/signals-react)) - React integration for signals.
     - [`signals-web`](https://github.com/MichaelOstermann/signals-web) ([docs](https://michaelostermann.github.io/signals-web)) - Signals collection for the web.
+    - [`signals-modal`](https://github.com/MichaelOstermann/signals-modal) ([docs](https://michaelostermann.github.io/signals-modal)) - Composable modal management.
 - [`fn`](https://github.com/MichaelOstermann/fn) ([docs](https://MichaelOstermann.github.io/fn)) - A utility library for TypeScript.
     - [`array`](https://github.com/MichaelOstermann/array) ([docs](https://MichaelOstermann.github.io/array)) - Functional utilities for arrays.
     - [`object`](https://github.com/MichaelOstermann/object) ([docs](https://MichaelOstermann.github.io/object)) - Functional utilities for objects.
