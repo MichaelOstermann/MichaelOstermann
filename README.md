@@ -1,15 +1,16 @@
-- [`match`](https://github.com/MichaelOstermann/match) ([docs](https://michaelostermann.github.io/match)) - Zero-runtime exhaustive pattern matching. 
-- [`dfdl`](https://github.com/MichaelOstermann/dfdl) ([docs](https://michaelostermann.github.io/dfdl)) - Data-First / Data-Last oriented utilities.
-- [`remmi`](https://github.com/MichaelOstermann/remmi) ([docs](https://michaelostermann.github.io/remmi)) - Reverse immer.
-- [`dsp`](https://github.com/MichaelOstermann/dsp) ([docs](https://michaelostermann.github.io/dsp)) - Small & fast disposables.
-- [`dll`](https://github.com/MichaelOstermann/dll) ([docs](https://michaelostermann.github.io/dll/)) - Functional doubly-linked lists.
-- [`result`](https://github.com/MichaelOstermann/result) ([docs](https://michaelostermann.github.io/result)) - Functional utilities for success | error types.
-- [`geometry`](https://github.com/MichaelOstermann/geometry) ([docs](https://michaelostermann.github.io/geometry/)) - Functional geometry utilities.
+- [`MoonWave`](https://github.com/MichaelOstermann/MoonWave) - Cross-platform music player for local files. 
 - [`signals`](https://github.com/MichaelOstermann/signals) ([docs](https://michaelostermann.github.io/signals)) - A signals library.
     - [`signals-react`](https://github.com/MichaelOstermann/signals-react) ([docs](https://michaelostermann.github.io/signals-react)) - React integration for signals.
     - [`signals-web`](https://github.com/MichaelOstermann/signals-web) ([docs](https://michaelostermann.github.io/signals-web)) - Signals collection for the web.
     - [`signals-modal`](https://github.com/MichaelOstermann/signals-modal) ([docs](https://michaelostermann.github.io/signals-modal)) - Composable modal management.
 - [`fn`](https://github.com/MichaelOstermann/fn) ([docs](https://MichaelOstermann.github.io/fn)) - A utility library for TypeScript.
+    - [`match`](https://github.com/MichaelOstermann/match) ([docs](https://michaelostermann.github.io/match)) - Zero-runtime exhaustive pattern matching. 
+    - [`dfdl`](https://github.com/MichaelOstermann/dfdl) ([docs](https://michaelostermann.github.io/dfdl)) - Data-First / Data-Last oriented utilities.
+    - [`remmi`](https://github.com/MichaelOstermann/remmi) ([docs](https://michaelostermann.github.io/remmi)) - Reverse immer.
+    - [`dsp`](https://github.com/MichaelOstermann/dsp) ([docs](https://michaelostermann.github.io/dsp)) - Small & fast disposables.
+    - [`dll`](https://github.com/MichaelOstermann/dll) ([docs](https://michaelostermann.github.io/dll/)) - Functional doubly-linked lists.
+    - [`result`](https://github.com/MichaelOstermann/result) ([docs](https://michaelostermann.github.io/result)) - Functional utilities for success | error types.
+    - [`geometry`](https://github.com/MichaelOstermann/geometry) ([docs](https://michaelostermann.github.io/geometry/)) - Functional geometry utilities.
     - [`array`](https://github.com/MichaelOstermann/array) ([docs](https://MichaelOstermann.github.io/array)) - Functional utilities for arrays.
     - [`object`](https://github.com/MichaelOstermann/object) ([docs](https://MichaelOstermann.github.io/object)) - Functional utilities for objects.
     - [`string`](https://github.com/MichaelOstermann/string) ([docs](https://MichaelOstermann.github.io/string)) - Functional utilities for strings.
