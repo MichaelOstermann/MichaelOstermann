@@ -9,6 +9,7 @@
     - [`remmi`](https://github.com/MichaelOstermann/remmi) ([docs](https://michaelostermann.github.io/remmi)) - Reverse immer.
     - [`dsp`](https://github.com/MichaelOstermann/dsp) ([docs](https://michaelostermann.github.io/dsp)) - Small & fast disposables.
     - [`dll`](https://github.com/MichaelOstermann/dll) ([docs](https://michaelostermann.github.io/dll/)) - Functional doubly-linked lists.
+    - [`graph`](https://github.com/MichaelOstermann/graph) ([docs](https://michaelostermann.github.io/graph)) - Functional graph data-structure.
     - [`result`](https://github.com/MichaelOstermann/result) ([docs](https://michaelostermann.github.io/result)) - Functional utilities for success | error types.
     - [`geometry`](https://github.com/MichaelOstermann/geometry) ([docs](https://michaelostermann.github.io/geometry/)) - Functional geometry utilities.
     - [`array`](https://github.com/MichaelOstermann/array) ([docs](https://MichaelOstermann.github.io/array)) - Functional utilities for arrays.
