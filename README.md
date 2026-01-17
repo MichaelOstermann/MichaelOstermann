@@ -11,6 +11,7 @@
 | [`remmi`](https://github.com/MichaelOstermann/remmi) ([docs](https://michaelostermann.github.io/remmi)) | Reverse immer. |
 | [`dsp`](https://github.com/MichaelOstermann/dsp) ([docs](https://michaelostermann.github.io/dsp)) | Small & fast disposables. |
 | [`weak-value-map`](https://github.com/MichaelOstermann/weak-value-map) ([docs](https://michaelostermann.github.io/weak-value-map)) | A map with weakly-held values. |
+| [`delta`](https://github.com/MichaelOstermann/delta) ([docs](https://michaelostermann.github.io/delta/)) | Functional operational-transform.  |
 | [`url-pattern`](https://github.com/MichaelOstermann/url-pattern) ([docs](https://michaelostermann.github.io/url-pattern/)) | Type-safe url pattern matching. |
 | [`dll`](https://github.com/MichaelOstermann/dll) ([docs](https://michaelostermann.github.io/dll/)) | Functional doubly-linked lists. |
 | [`graph`](https://github.com/MichaelOstermann/graph) ([docs](https://michaelostermann.github.io/graph)) | Functional graph data-structure. |
