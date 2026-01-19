@@ -26,6 +26,7 @@
 | [`map`](https://github.com/MichaelOstermann/map) ([docs](https://MichaelOstermann.github.io/map)) | Functional utilities for maps. |
 | [`set`](https://github.com/MichaelOstermann/set) ([docs](https://MichaelOstermann.github.io/set)) | Functional utilities for sets. |
 | [`promise`](https://github.com/MichaelOstermann/promise) ([docs](https://MichaelOstermann.github.io/promise)) | Functional utilities for promises. |
+| [`lsm`](https://github.com/MichaelOstermann/lsm) ([docs](https://michaelostermann.github.io/lsm/)) | List-selection-manager loosely modeled after MacOS Finder. |
 | [`hotkeys`](https://github.com/MichaelOstermann/hotkeys) ([docs](https://michaelostermann.github.io/hotkeys/)) | Highly flexible keyboard shortcut management for any environment. |
 
 
