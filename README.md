@@ -1,17 +1,18 @@
 | Project | Description |
 | ------- | ----------- |
 | [`MoonWave`](https://github.com/MichaelOstermann/MoonWave) | Cross-platform music player for local files. | 
+| [`match`](https://github.com/MichaelOstermann/match) ([docs](https://michaelostermann.github.io/match)) | Zero-runtime exhaustive pattern matching.  |
+| [`delta`](https://github.com/MichaelOstermann/delta) ([docs](https://michaelostermann.github.io/delta/)) | Functional operational-transform.  |
+| [`fractional-indexing`](https://github.com/MichaelOstermann/fractional-indexing) ([docs](https://michaelostermann.github.io/fractional-indexing)) | Lexicographically sortable keys for ordering lists without renumbering.  |
+| [`remmi`](https://github.com/MichaelOstermann/remmi) ([docs](https://michaelostermann.github.io/remmi)) | Reverse immer. |
 | [`signals`](https://github.com/MichaelOstermann/signals) ([docs](https://michaelostermann.github.io/signals)) | A signals library. |
 | [`signals-react`](https://github.com/MichaelOstermann/signals-react) ([docs](https://michaelostermann.github.io/signals-react)) | React integration for signals. |
 | [`signals-web`](https://github.com/MichaelOstermann/signals-web) ([docs](https://michaelostermann.github.io/signals-web)) | Signals collection for the web. |
 | [`signals-tui`](https://github.com/MichaelOstermann/signals-tui) ([docs](https://michaelostermann.github.io/signals-tui)) | Declarative TUI framework using signals. |
 | [`signals-modal`](https://github.com/MichaelOstermann/signals-modal) ([docs](https://michaelostermann.github.io/signals-modal)) | Composable modal management. |
-| [`match`](https://github.com/MichaelOstermann/match) ([docs](https://michaelostermann.github.io/match)) | Zero-runtime exhaustive pattern matching.  |
 | [`dfdl`](https://github.com/MichaelOstermann/dfdl) ([docs](https://michaelostermann.github.io/dfdl)) | Data-First / Data-Last oriented utilities. |
-| [`remmi`](https://github.com/MichaelOstermann/remmi) ([docs](https://michaelostermann.github.io/remmi)) | Reverse immer. |
 | [`dsp`](https://github.com/MichaelOstermann/dsp) ([docs](https://michaelostermann.github.io/dsp)) | Small & fast disposables. |
 | [`weak-value-map`](https://github.com/MichaelOstermann/weak-value-map) ([docs](https://michaelostermann.github.io/weak-value-map)) | A map with weakly-held values. |
-| [`delta`](https://github.com/MichaelOstermann/delta) ([docs](https://michaelostermann.github.io/delta/)) | Functional operational-transform.  |
 | [`url-pattern`](https://github.com/MichaelOstermann/url-pattern) ([docs](https://michaelostermann.github.io/url-pattern/)) | Type-safe url pattern matching. |
 | [`dll`](https://github.com/MichaelOstermann/dll) ([docs](https://michaelostermann.github.io/dll/)) | Functional doubly-linked lists. |
 | [`graph`](https://github.com/MichaelOstermann/graph) ([docs](https://michaelostermann.github.io/graph)) | Functional graph data-structure. |
