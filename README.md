@@ -1,6 +1,5 @@
 | Project | Description |
 | ------- | ----------- |
-| [`MoonWave`](https://github.com/MichaelOstermann/MoonWave) | Cross-platform music player for local files. |
 | [`fn`](https://github.com/MichaelOstermann/fn) | A utility library for TypeScript. |
 | [`signals`](https://github.com/MichaelOstermann/signals) | A signals library, with React integration and composable modal management. |
 | [`delta`](https://github.com/MichaelOstermann/delta) | Functional operational-transform. |
@@ -63,6 +62,7 @@
 | [`signals-react`](https://github.com/MichaelOstermann/signals-react) | Moved into [`signals`](https://github.com/MichaelOstermann/signals). |
 | [`signals-modal`](https://github.com/MichaelOstermann/signals-modal) | Moved into [`signals`](https://github.com/MichaelOstermann/signals). |
 | [`tree-shake-import-namespaces`](https://github.com/MichaelOstermann/tree-shake-import-namespaces) | Moved into [`barrels`](https://github.com/MichaelOstermann/barrels). |
+| [`MoonWave`](https://github.com/MichaelOstermann/MoonWave) | Cross-platform music player for local files. |
 | [`signals-web`](https://github.com/MichaelOstermann/signals-web) | Signals collection for the web. |
 | [`signals-tui`](https://github.com/MichaelOstermann/signals-tui) | Declarative TUI framework using signals. |
 | [`dll`](https://github.com/MichaelOstermann/dll) | Functional doubly-linked lists. |
