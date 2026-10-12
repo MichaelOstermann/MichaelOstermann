@@ -5,7 +5,6 @@
 | [`delta`](https://github.com/MichaelOstermann/delta) | Functional operational-transform. |
 | [`fractional-indexing`](https://github.com/MichaelOstermann/fractional-indexing) | Lexicographically sortable keys for ordering lists without renumbering. |
 | [`url-pattern`](https://github.com/MichaelOstermann/url-pattern) | Type-safe url pattern matching. |
-| [`weak-value-map`](https://github.com/MichaelOstermann/weak-value-map) | A map with weakly-held values. |
 | [`graph`](https://github.com/MichaelOstermann/graph) | Functional graph data-structure. |
 | [`lsm`](https://github.com/MichaelOstermann/lsm) | List-selection-manager loosely modeled after MacOS Finder. |
 | [`hotkeys`](https://github.com/MichaelOstermann/hotkeys) | Highly flexible keyboard shortcut management for any environment. |
@@ -66,6 +65,7 @@
 | [`signals-web`](https://github.com/MichaelOstermann/signals-web) | Signals collection for the web. |
 | [`signals-tui`](https://github.com/MichaelOstermann/signals-tui) | Declarative TUI framework using signals. |
 | [`dll`](https://github.com/MichaelOstermann/dll) | Functional doubly-linked lists. |
+| [`weak-value-map`](https://github.com/MichaelOstermann/weak-value-map) | A map with weakly-held values. |
 | [`result`](https://github.com/MichaelOstermann/result) | Functional utilities for success \| error types. |
 | [`flags`](https://github.com/MichaelOstermann/flags) | Functional utilities for bitwise flags. |
 | [`cache`](https://github.com/MichaelOstermann/cache) | Functional cache utilities. |
