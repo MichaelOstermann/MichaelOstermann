@@ -1,6 +1,6 @@
 | Project | Description |
 | ------- | ----------- |
-| [`fn`](https://github.com/MichaelOstermann/fn) | A utility library for TypeScript. |
+| [`stdlib`](https://github.com/MichaelOstermann/stdlib) | A utility library for TypeScript. |
 | [`signals`](https://github.com/MichaelOstermann/signals) | A signals library, with React integration and composable modal management. |
 | [`delta`](https://github.com/MichaelOstermann/delta) | Functional operational-transform. |
 | [`fractional-indexing`](https://github.com/MichaelOstermann/fractional-indexing) | Lexicographically sortable keys for ordering lists without renumbering. |
@@ -47,18 +47,18 @@
 
 | Project | Description |
 | ------- | ----------- |
-| [`array`](https://github.com/MichaelOstermann/array) | Moved into [`fn`](https://github.com/MichaelOstermann/fn). |
-| [`object`](https://github.com/MichaelOstermann/object) | Moved into [`fn`](https://github.com/MichaelOstermann/fn). |
-| [`string`](https://github.com/MichaelOstermann/string) | Moved into [`fn`](https://github.com/MichaelOstermann/fn). |
-| [`number`](https://github.com/MichaelOstermann/number) | Moved into [`fn`](https://github.com/MichaelOstermann/fn). |
-| [`map`](https://github.com/MichaelOstermann/map) | Moved into [`fn`](https://github.com/MichaelOstermann/fn). |
-| [`set`](https://github.com/MichaelOstermann/set) | Moved into [`fn`](https://github.com/MichaelOstermann/fn). |
-| [`promise`](https://github.com/MichaelOstermann/promise) | Moved into [`fn`](https://github.com/MichaelOstermann/fn). |
-| [`geometry`](https://github.com/MichaelOstermann/geometry) | Moved into [`fn`](https://github.com/MichaelOstermann/fn). |
-| [`dfdl`](https://github.com/MichaelOstermann/dfdl) | Moved into [`fn`](https://github.com/MichaelOstermann/fn). |
-| [`dsp`](https://github.com/MichaelOstermann/dsp) | Moved into [`fn`](https://github.com/MichaelOstermann/fn). |
-| [`remmi`](https://github.com/MichaelOstermann/remmi) | Moved into [`fn`](https://github.com/MichaelOstermann/fn). |
-| [`match`](https://github.com/MichaelOstermann/match) | Moved into [`fn`](https://github.com/MichaelOstermann/fn). |
+| [`array`](https://github.com/MichaelOstermann/array) | Moved into [`stdlib`](https://github.com/MichaelOstermann/stdlib). |
+| [`object`](https://github.com/MichaelOstermann/object) | Moved into [`stdlib`](https://github.com/MichaelOstermann/stdlib). |
+| [`string`](https://github.com/MichaelOstermann/string) | Moved into [`stdlib`](https://github.com/MichaelOstermann/stdlib). |
+| [`number`](https://github.com/MichaelOstermann/number) | Moved into [`stdlib`](https://github.com/MichaelOstermann/stdlib). |
+| [`map`](https://github.com/MichaelOstermann/map) | Moved into [`stdlib`](https://github.com/MichaelOstermann/stdlib). |
+| [`set`](https://github.com/MichaelOstermann/set) | Moved into [`stdlib`](https://github.com/MichaelOstermann/stdlib). |
+| [`promise`](https://github.com/MichaelOstermann/promise) | Moved into [`stdlib`](https://github.com/MichaelOstermann/stdlib). |
+| [`geometry`](https://github.com/MichaelOstermann/geometry) | Moved into [`stdlib`](https://github.com/MichaelOstermann/stdlib). |
+| [`dfdl`](https://github.com/MichaelOstermann/dfdl) | Moved into [`stdlib`](https://github.com/MichaelOstermann/stdlib). |
+| [`dsp`](https://github.com/MichaelOstermann/dsp) | Moved into [`stdlib`](https://github.com/MichaelOstermann/stdlib). |
+| [`remmi`](https://github.com/MichaelOstermann/remmi) | Moved into [`stdlib`](https://github.com/MichaelOstermann/stdlib). |
+| [`match`](https://github.com/MichaelOstermann/match) | Moved into [`stdlib`](https://github.com/MichaelOstermann/stdlib). |
 | [`signals-react`](https://github.com/MichaelOstermann/signals-react) | Moved into [`signals`](https://github.com/MichaelOstermann/signals). |
 | [`signals-modal`](https://github.com/MichaelOstermann/signals-modal) | Moved into [`signals`](https://github.com/MichaelOstermann/signals). |
 | [`tree-shake-import-namespaces`](https://github.com/MichaelOstermann/tree-shake-import-namespaces) | Moved into [`barrels`](https://github.com/MichaelOstermann/barrels). |
