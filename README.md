@@ -40,35 +40,3 @@
 | [`dotfiles`](https://github.com/MichaelOstermann/dotfiles) | |
 | [`template-ts`](https://github.com/MichaelOstermann/template-ts) | |
 
-
-#### Archived
-
-
-| Project | Description |
-| ------- | ----------- |
-| [`array`](https://github.com/MichaelOstermann/array) | Moved into [`stdlib`](https://github.com/MichaelOstermann/stdlib). |
-| [`object`](https://github.com/MichaelOstermann/object) | Moved into [`stdlib`](https://github.com/MichaelOstermann/stdlib). |
-| [`string`](https://github.com/MichaelOstermann/string) | Moved into [`stdlib`](https://github.com/MichaelOstermann/stdlib). |
-| [`number`](https://github.com/MichaelOstermann/number) | Moved into [`stdlib`](https://github.com/MichaelOstermann/stdlib). |
-| [`map`](https://github.com/MichaelOstermann/map) | Moved into [`stdlib`](https://github.com/MichaelOstermann/stdlib). |
-| [`set`](https://github.com/MichaelOstermann/set) | Moved into [`stdlib`](https://github.com/MichaelOstermann/stdlib). |
-| [`promise`](https://github.com/MichaelOstermann/promise) | Moved into [`stdlib`](https://github.com/MichaelOstermann/stdlib). |
-| [`geometry`](https://github.com/MichaelOstermann/geometry) | Moved into [`stdlib`](https://github.com/MichaelOstermann/stdlib). |
-| [`dfdl`](https://github.com/MichaelOstermann/dfdl) | Moved into [`stdlib`](https://github.com/MichaelOstermann/stdlib). |
-| [`dsp`](https://github.com/MichaelOstermann/dsp) | Moved into [`stdlib`](https://github.com/MichaelOstermann/stdlib). |
-| [`remmi`](https://github.com/MichaelOstermann/remmi) | Moved into [`stdlib`](https://github.com/MichaelOstermann/stdlib). |
-| [`match`](https://github.com/MichaelOstermann/match) | Moved into [`stdlib`](https://github.com/MichaelOstermann/stdlib). |
-| [`signals-react`](https://github.com/MichaelOstermann/signals-react) | Moved into [`signals`](https://github.com/MichaelOstermann/signals). |
-| [`signals-modal`](https://github.com/MichaelOstermann/signals-modal) | Moved into [`signals`](https://github.com/MichaelOstermann/signals). |
-| [`tree-shake-import-namespaces`](https://github.com/MichaelOstermann/tree-shake-import-namespaces) | Moved into [`barrels`](https://github.com/MichaelOstermann/barrels). |
-| [`MoonWave`](https://github.com/MichaelOstermann/MoonWave) | Cross-platform music player for local files. |
-| [`signals-web`](https://github.com/MichaelOstermann/signals-web) | Signals collection for the web. |
-| [`signals-tui`](https://github.com/MichaelOstermann/signals-tui) | Declarative TUI framework using signals. |
-| [`dll`](https://github.com/MichaelOstermann/dll) | Functional doubly-linked lists. |
-| [`weak-value-map`](https://github.com/MichaelOstermann/weak-value-map) | A map with weakly-held values. |
-| [`result`](https://github.com/MichaelOstermann/result) | Functional utilities for success \| error types. |
-| [`flags`](https://github.com/MichaelOstermann/flags) | Functional utilities for bitwise flags. |
-| [`cache`](https://github.com/MichaelOstermann/cache) | Functional cache utilities. |
-| [`tinybench-pretty-printer`](https://github.com/MichaelOstermann/tinybench-pretty-printer) | Customizable pretty-printer for tinybench benchmarks. |
-| [`tables`](https://github.com/MichaelOstermann/tables) | Highly customizable tables for CLIs and Markdown. |
-| [`vitepress-theme`](https://github.com/MichaelOstermann/vitepress-theme) | VitePress theme of the former documentation sites. |
